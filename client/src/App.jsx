@@ -1,11 +1,7 @@
 import React from 'react'
 
-function App() {
+export default function App() {
   return (
-    <>
-      <h2 className="text-red-500">App</h2>
-    </>
+    <div>App</div>
   )
 }
-
-export default App
